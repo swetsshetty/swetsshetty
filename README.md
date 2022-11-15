@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swetsshetty
+- 👋 Hi, I’m shwetha shetty
 - 👀 I’m interested in data science job
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science
